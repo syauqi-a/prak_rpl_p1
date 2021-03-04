@@ -15,12 +15,12 @@ body{
 	border-radius: 6px;
 }
 
-#profil-picture{
+#profile-picture{
 	width: 100%;
 	height: auto;
 }
 
-#profil-name{
+#profile-name{
 	text-align: center;
 }
 
@@ -42,4 +42,8 @@ body{
 	background-color: burlywood;
 	text-align: center;
 	color: white;
+}
+
+#profile-job{
+	text-align: center;
 }
